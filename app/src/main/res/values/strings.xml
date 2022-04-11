@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">syed_AliHassan_S1905387</string>
+
+    <!--  Current Incidents   -->
+    <string name="location">Location :</string>
+    <string name="date_time">Date Time :</string>
+    <string name="description">Description:</string>
+    <string name="tittle">Tittle :</string>
+
+    <!--  Road Work  -->
+    <string name="start_date">Start &amp; Ending Date :</string>
+
+</resources>
